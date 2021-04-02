@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPD-DP03A-06-DOSTAD304-recovered_wfp-dpc_optode_instrument_recovered
 data_stream: RS03AXPD-DP03A-06-DOSTAD304-recovered_wfp-dpc_optode_instrument_recovered
 end_date: '2021-02-08T12:06:06.345Z'
-last_updated: '2021-04-02T17:53:08.831793Z'
+last_updated: '2021-04-02T19:29:59.687766'
 start_date: '2014-08-20T12:18:52.477Z'
-status: pending
+status: success
