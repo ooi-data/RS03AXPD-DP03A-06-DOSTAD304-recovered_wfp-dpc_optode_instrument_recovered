@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS03AXPD-DP03A-06-DOSTAD304-recovered_wfp-dpc_optode_instrument_recovered
 last_request: '2021-12-21T22:12:33.612675Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPD-DP03A-06-DOSTAD304-recovered_wfp-dpc_optode_instrument_recovered/main/history/response.json
-status: pending
+status: success
